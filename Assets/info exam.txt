@@ -1,0 +1,2 @@
+il y a un bug sur le debut du jeu, meme si je n'appuie pas sur espace le jeu ce lance, mais je ne peux pas bouger, il faut que j'appuie sur space pour pouver bouger de gauche a droite
+et sur les objet booster je n'arrive pas faire en sorte que la balle fasse la colistion
